@@ -18,7 +18,7 @@ My Personal Experience
 
 
 # [Project 2: Feature Selection and Classification for enhancing Chronic
-[Kidney Disease Diagnose](https://github.com/Oussama-nasri/Smart-Esprit](https://github.com/Oussama-nasri/Feature-Selection-and-Classification-for-enhancing-Chronic-Kidney-Disease-Diagnose)
+Kidney Disease Diagnose](https://github.com/Oussama-nasri/Feature-Selection-and-Classification-for-enhancing-Chronic-Kidney-Disease-Diagnose)
 
 * Compare the Machine Learning Techninques used for the pridiction of CHRONIC KIDNEY DISEASE used in the scientific papers:
 [Boosted Classifier and Features Selection for Enhancing Chronic Kidney Disease Diagnose](https://github.com/Oussama-nasri/Feature-Selection-and-Classification-for-enhancing-Chronic-Kidney-Disease-Diagnose/blob/main/Boosted%20Classifier%20and%20Features%20Selection%20for%20Enhancing%20Chronic%20Kidney%20Disease%20Diagnose.pdf)
