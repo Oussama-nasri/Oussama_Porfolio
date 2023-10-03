@@ -100,6 +100,8 @@ Deploy the selected model in a real-world setting  : local web application
 
 [Used DataSet] (https://github.com/Oussama-nasri/Feature-Selection-and-Classification-for-enhancing-Chronic-Kidney-Disease-Diagnose/blob/main/chronic_kidney_disease_full.arff)
 
+[Final  Report] (https://github.com/Oussama-nasri/Feature-Selection-and-Classification-for-enhancing-Chronic-Kidney-Disease-Diagnose/blob/main/CKD report.pdf)
+
 
 
 
