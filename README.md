@@ -33,65 +33,65 @@ Academic Projects
 
 Project:
 
-1 - Business Understanding:
+# 1 - Business Understanding:
 
-Define the project's objectives and goals.
+-Define the project's objectives and goals.
 
-Understand the significance of detecting CKD early.
+-Understand the significance of detecting CKD early.
 
-Identify key stakeholders and their requirements.
+-Identify key stakeholders and their requirements.
 
-2 - Data Understanding:
+# 2 - Data Understanding:
 
-Gather relevant CKD-related datasets.
+-Gather relevant CKD-related datasets.
 
-Explore the data to understand its structure and content.
+-Explore the data to understand its structure and content.
 
-Identify the features (variables) available in the dataset.
+-Identify the features (variables) available in the dataset.
 
-Check for data quality issues such as missing values and outliers.
+-Check for data quality issues such as missing values and outliers.
 
-Understand the distribution of target labels (CKD or non-CKD).
+-Understand the distribution of target labels (CKD or non-CKD).
 
-Data Preparation:
+# 3 - Data Preparation:
 
-Handle missing data by imputation or removal.
+-Handle missing data by imputation or removal.
 
-Address outliers through data preprocessing techniques.
+-Address outliers through data preprocessing techniques.
 
-Perform data scaling or normalization as necessary.
+-Perform data scaling or normalization as necessary.
 
-Encode categorical variables if present.
+-Encode categorical variables if present.
 
 Split the data into training, validation, and test sets.
 
-Modeling:
+# 4 - Modeling:
 
-Select appropriate machine learning algorithms for classification (e.g., logistic regression, decision trees, random forests, SVM).
+-Select appropriate machine learning algorithms for classification (e.g., logistic regression, decision trees, random forests, SVM).
 
-Train multiple models using the training data.
+-Train multiple models using the training data.
 
-Tune hyperparameters to optimize model performance.
+-Tune hyperparameters to optimize model performance.
 
-Consider techniques like feature selection to improve model interpretability.
+-Consider techniques like feature selection to improve model interpretability.
 
-Evaluate model performance using appropriate metrics (e.g., accuracy, precision, recall, F1-score).
+-Evaluate model performance using appropriate metrics (e.g., accuracy, precision, recall, F1-score).
 
-Evaluation:
+# 5 - Evaluation:
 
-Assess the model's performance on the validation set.
+-Assess the model's performance on the validation set.
 
-Compare different models and select the best-performing one.
+-Compare different models and select the best-performing one.
 
-Use relevant evaluation metrics, considering the trade-offs between false positives and false negatives.
+-Use relevant evaluation metrics, considering the trade-offs between false positives and false negatives.
 
-Visualize model performance using ROC curves, confusion matrices, etc.
+-Visualize model performance using ROC curves, confusion matrices, etc.
 
-Consider performing cross-validation to estimate model generalization.
+-Consider performing cross-validation to estimate model generalization.
 
-Deployment:
+# 6 - Deployment:
 
-Deploy the selected model in a real-world setting  : local web application
+-Deploy the selected model in a real-world setting  : local web application
 
 
 
